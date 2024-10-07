@@ -1,1 +1,1 @@
-# FInal Project (Unity, SweetHome3D, C#, C++)
+# Final Project (Unity, SweetHome3D, C#, C++)
